@@ -1,5 +1,6 @@
 
-.button4 {
+/* CSS */
+.button-4 {
   appearance: none;
   background-color: #FAFBFC;
   border: 1px solid rgba(27, 31, 35, 0.15);
@@ -24,4 +25,3 @@
   white-space: nowrap;
   word-wrap: break-word;
 }
-
