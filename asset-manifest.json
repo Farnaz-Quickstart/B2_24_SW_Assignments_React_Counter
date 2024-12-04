@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/B2_24_SW_Assignments_React_Counter/static/css/main.2497cecd.css",
+    "main.js": "/B2_24_SW_Assignments_React_Counter/static/js/main.10275688.js",
+    "static/js/453.821dc310.chunk.js": "/B2_24_SW_Assignments_React_Counter/static/js/453.821dc310.chunk.js",
+    "index.html": "/B2_24_SW_Assignments_React_Counter/index.html",
+    "main.2497cecd.css.map": "/B2_24_SW_Assignments_React_Counter/static/css/main.2497cecd.css.map",
+    "main.10275688.js.map": "/B2_24_SW_Assignments_React_Counter/static/js/main.10275688.js.map",
+    "453.821dc310.chunk.js.map": "/B2_24_SW_Assignments_React_Counter/static/js/453.821dc310.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2497cecd.css",
+    "static/js/main.10275688.js"
+  ]
+}
